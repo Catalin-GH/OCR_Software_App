@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image to Text</string>
+    <string name="button_ImageSelect">Selecteaza o imagine</string>
+    <string name="textView_ServerIP">SERVER_IP:</string>
+    <string name="textView_Argument_1">Argument 1:</string>
+    <string name="textView_Argument_2">Argument 2:</string>
+    <string name="textView_quality">Quality Compress (0 - 100)</string>
+    <string name="button_Transfer">Transfer</string>
+</resources>
