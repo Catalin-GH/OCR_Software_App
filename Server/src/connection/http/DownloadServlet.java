@@ -22,7 +22,7 @@ public class DownloadServlet extends HttpServlet {
 	{
 		fileNameAndType = Config.fileNameAndType;
 		
-		String pythonScriptPath = "C:/Workspace/Python/ImageAnalyser/test.py";
+		String pythonScriptPath = "C:/Workspace/Licenta/ImageAnalyser/test.py";
 		String[] cmd = new String[3];
 		cmd[0] = "python";
 		cmd[1] = pythonScriptPath;
