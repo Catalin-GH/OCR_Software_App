@@ -1,0 +1,12 @@
+{
+	"tools": { 
+		"tesseract": "C:/Workspace/OCR_Application/src/Tesseract-OCR/tesseract",
+		"analyser": "C:/Workspace/OCR_Application/src/image_analyser/ocr.py"
+	},
+	"images_directory": "C:/Workspace/OCR_Application/images/",
+	"connection": {
+	    "file_type": "file",
+		"download_arguments": "Arg1",
+		"upload_arguments": ["Arg1", "Arg2"]
+	}
+}

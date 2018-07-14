@@ -1,0 +1,126 @@
+Detectia 1:
+
+
+Detectia 2:
+
+
+Detectia 3:
+
+
+Detectia 4:
+
+
+Detectia 5:
+
+
+Detectia 6:
+
+
+Detectia 7:
+
+
+Detectia 8:
+
+
+Detectia 9:
+syntax allows you to put the argument in as a placeholder without
+using it. The idea is that you might want to change the function
+definition to use the placeholder later, without changing all the
+code where the function is called. Of course, you can accomplish
+the same thing by using a named argument, but if you define the
+argument for the function body without using it, most compilers
+will give you a warning message, assuming you're made a logical
+error. By intentionally leaving the argument name out, you
+suppress this warning.
+
+More important, if you start out using a function argument and
+later decide that you dont need it, you can effectively remove it
+Whom generating wamjngs, and yet not disturh any client code
+V!/V tlw rwavious version of the iu1i(i10Y1
+
+Detectia 10:
+syntax allows you to put the argument in as a placeholder without
+using it. The idea is that you might want to change the function
+definition to use the placeholder later, without changing all the
+code where the function is called. Of course, you can accomplish
+the some thing by using a named argument, but if you define the
+argument for the function body without using it, most compilers
+will give you a waming message, assuming you've made a logical
+error. By intentionally leaving the argument name out, you
+suppress this warning.
+
+More important, if you start out using a function argument and
+later decide that you dont need it, you can effectively remove it
+without generating warnings, and yet not disturb any client code
+
+at... .l1:.mtlm nrnvious version of the function
+
+Detectia 11:
+mmwious version of the function
+
+Detectia 12:
+
+
+Detectia 13:
+
+
+Detectia 14:
+
+
+Detectia 15:
+
+
+Detectia 16:
+
+
+Detectia 17:
+
+
+Detectia 18:
+
+
+Detectia 19:
+
+
+Detectia 20:
+
+
+Detectia 21:
+
+
+Detectia 22:
+
+
+Detectia 23:
+
+
+Detectia 24:
+
+
+Detectia 25:
+
+
+Detectia 26:
+
+
+Detectia 27:
+
+
+Detectia 28:
+
+
+Detectia 29:
+
+
+Detectia 30:
+
+
+Detectia 31:
+
+
+Detectia 32:
+
+
+Detectia 33:
+
+

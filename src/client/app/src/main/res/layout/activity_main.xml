@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/viewText_Message"
+        android:layout_width="350dp"
+        android:layout_height="145dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="8dp"
+        android:scrollbars="vertical"
+        android:singleLine="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView_Preview" />
+
+    <ImageView
+        android:id="@+id/imageView_Preview"
+        android:layout_width="360dp"
+        android:layout_height="293dp"
+        android:layout_marginBottom="150dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="8dp"
+        android:src="@mipmap/ic_launcher"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_Send" />
+
+    <Button
+        android:id="@+id/button_Receive"
+        android:layout_width="105dp"
+        android:layout_height="52dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/button_Receive"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button_Send"
+        app:layout_constraintTop_toBottomOf="@+id/editText_ServerIP" />
+
+    <Button
+        android:id="@+id/button_Send"
+        android:layout_width="105dp"
+        android:layout_height="52dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/button_Send"
+        app:layout_constraintEnd_toStartOf="@+id/button_Receive"
+        app:layout_constraintStart_toEndOf="@+id/button_ImageSelect"
+        app:layout_constraintTop_toBottomOf="@+id/editText_ServerIP" />
+
+    <Button
+        android:id="@+id/button_ImageSelect"
+        android:layout_width="105dp"
+        android:layout_height="52dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="17dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/button_ImageSelect"
+        app:layout_constraintEnd_toStartOf="@+id/button_Send"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_ServerIP" />
+
+    <TextView
+        android:id="@+id/textView_ServerIP"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:onClick="textViewClicked"
+        android:text="@string/text_view_IP"
+        android:textAllCaps="false"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editText_ServerIP"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:digits="0123456789."
+        android:ems="10"
+        android:inputType="numberDecimal"
+        android:maxLength="15"
+        android:text="192.168.43.132"
+        app:layout_constraintStart_toEndOf="@+id/textView_ServerIP"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

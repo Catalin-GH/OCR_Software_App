@@ -1,0 +1,18 @@
+automatrcallv substituted by the compiler when it sees the first
+argument is an int and that there is no second argument. The
+tompiler has seen the default argument, so it knows it can still
+make the function call if it substitutes this second argument, whirh
+is whatyou've told it to do by making it a default.
+
+Default arguments are a convenience, as function over
+convenience Both features allow you to use a
+
+in different situations. The difference is that w
+the compiler is substituting arguments whe
+them in Vourself. The vrecedino mm.
+
+loading is a
+single function name
+ith default arguments
+11 you don't want to put
+

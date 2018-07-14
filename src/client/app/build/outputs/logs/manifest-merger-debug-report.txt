@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0b18d30f9eff0ca070d18b5b1647924a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\faa13697bff3cac9c0909c55432c1fde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\12834ee2c349bcc66a03689d5e139f64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\743c43ee9cd023487ace91d618b6eaa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\94d1fd2e9c53ced4c99ea258befb0b91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3813392e9658305c2fbaf3a3f8a0dcf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\52c7a9db6219a75690de1dc2d1ce5f84\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f61f7fc0f700b28fbc1b324f1bd8e122\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\42bf6c7991b0dbe8616aa8a3348272cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6dedc236c8052a05f53268549c394640\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e818750bdd78bdbdd990dc91346e14c1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cce7ef437e8c962f13e394c116c7a5a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f5f952f9fa10a3f9f3572f0e373965d5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:4:5-45
+uses-permission#android.permission.INTERNET
+ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3813392e9658305c2fbaf3a3f8a0dcf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3813392e9658305c2fbaf3a3f8a0dcf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\52c7a9db6219a75690de1dc2d1ce5f84\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\52c7a9db6219a75690de1dc2d1ce5f84\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:15:9-67
+activity#image.http.connection.MainActivity
+ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0b18d30f9eff0ca070d18b5b1647924a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0b18d30f9eff0ca070d18b5b1647924a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\faa13697bff3cac9c0909c55432c1fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\faa13697bff3cac9c0909c55432c1fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\12834ee2c349bcc66a03689d5e139f64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\12834ee2c349bcc66a03689d5e139f64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\743c43ee9cd023487ace91d618b6eaa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\743c43ee9cd023487ace91d618b6eaa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\94d1fd2e9c53ced4c99ea258befb0b91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\94d1fd2e9c53ced4c99ea258befb0b91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3813392e9658305c2fbaf3a3f8a0dcf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b3813392e9658305c2fbaf3a3f8a0dcf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\52c7a9db6219a75690de1dc2d1ce5f84\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\52c7a9db6219a75690de1dc2d1ce5f84\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f61f7fc0f700b28fbc1b324f1bd8e122\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f61f7fc0f700b28fbc1b324f1bd8e122\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\42bf6c7991b0dbe8616aa8a3348272cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\42bf6c7991b0dbe8616aa8a3348272cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6dedc236c8052a05f53268549c394640\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6dedc236c8052a05f53268549c394640\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e818750bdd78bdbdd990dc91346e14c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e818750bdd78bdbdd990dc91346e14c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cce7ef437e8c962f13e394c116c7a5a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cce7ef437e8c962f13e394c116c7a5a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f5f952f9fa10a3f9f3572f0e373965d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hotar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f5f952f9fa10a3f9f3572f0e373965d5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+		ADDED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\OCR_Application\src\client\app\src\main\AndroidManifest.xml

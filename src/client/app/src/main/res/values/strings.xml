@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image to Text</string>
+    <string name="button_ImageSelect">Selecteaza o imagine</string>
+    <string name="button_Send">Trimite</string>
+    <string name="button_Receive">Descarca</string>
+    <string name="text_view_IP">Server IP:</string>
+</resources>

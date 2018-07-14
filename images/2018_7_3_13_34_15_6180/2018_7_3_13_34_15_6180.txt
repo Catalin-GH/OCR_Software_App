@@ -1,0 +1,18 @@
+syntax allows you to put the argument in as a placeholder without
+using it. The idea is that you might want to change the function
+definition to use the placeholder later, without changing all the
+code where the function is called. Of course, you can accomplish
+the some thing by using a named argument, but if you define the
+argument for the function body without using it, most compilers
+will give you a waming message, assuming you've made a logical
+error. By intentionally leaving the argument name out, you
+suppress this warning.
+
+More important, if you start out using a function argument and
+later decide that you dont need it, you can effectively remove it
+without generating warnings, and yet not disturb any client code
+
+at... .l1:.mtlm nrnvious version of the function
+
+mmwious version of the function
+

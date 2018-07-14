@@ -1,0 +1,4 @@
+#Tue Jul 03 10:32:29 EEST 2018
+base.0=C\:\\Workspace\\OCR_Application\\src\\client\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\37
+path.0=classes.dex
+renamed.0=classes.dex
